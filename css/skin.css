@@ -3929,13 +3929,3 @@ h3.card-title.h5 {
         height: 100%;
     }
 }
-
-/* Hebl custom: justify body text */
-.site-content p,
-.site-section p,
-.answer,
-.answer p,
-.ftr-nav p {
-  text-align: justify;
-  text-justify: inter-word;
-}
