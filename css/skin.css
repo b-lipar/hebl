@@ -3934,3 +3934,7 @@ h3.card-title.h5 {
   text-align: justify;
   text-justify: inter-word;
 }
+
+.d-block {
+  display: block;
+}
