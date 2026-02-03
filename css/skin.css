@@ -3938,3 +3938,7 @@ h3.card-title.h5 {
 .d-block {
   display: block;
 }
+
+.anim-text span {
+  display: block !important;
+}
